@@ -13,25 +13,49 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1일차">
+      <UniqueIdentifier>{e49de003-8558-4161-bd29-255adb16cb80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2일차">
+      <UniqueIdentifier>{4d51d925-fd0d-4b29-9967-688d87f4398d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실패">
+      <UniqueIdentifier>{144adc9c-e24b-4234-a424-5a7e5a41d96d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="14429_배스킨라빈스 31.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="2720_세탁소 사장 동혁.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
     <ClCompile Include="9655_돌 게임.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="25335_Gravity Hackenbush.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
     <ClCompile Include="10162_전자레인지.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
-    <ClCompile Include="2720_세탁소 사장 동혁.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="14429_배스킨라빈스 31.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
     <ClCompile Include="14720_우유 축제.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="11034_캥거루 세 마리2.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="28014_첨탑 밀어서 부수기.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="30018_타슈.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="25335_Gravity Hackenbush.cpp">
+      <Filter>소스 파일\실패</Filter>
+    </ClCompile>
+    <ClCompile Include="5585_거스름돈.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2864_ 5와 6의 차이.cpp">
+      <Filter>소스 파일\2일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
