@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\실패">
       <UniqueIdentifier>{144adc9c-e24b-4234-a424-5a7e5a41d96d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3일차">
+      <UniqueIdentifier>{2ee4569e-edc3-460e-bf49-8cd05e184a9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4일차">
+      <UniqueIdentifier>{1c96e572-efba-4275-ae41-9e7f5663fa54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2720_세탁소 사장 동혁.cpp">
@@ -56,6 +62,27 @@
     </ClCompile>
     <ClCompile Include="2864_ 5와 6의 차이.cpp">
       <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="14487_욱제는 효도쟁이야!!.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="22864_피로도.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="18238_ZOAC 2.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="21313_문어.cpp">
+      <Filter>소스 파일\4일차</Filter>
+    </ClCompile>
+    <ClCompile Include="28062_준석이의 사탕 사기.cpp">
+      <Filter>소스 파일\4일차</Filter>
+    </ClCompile>
+    <ClCompile Include="1991_트리 순회.cpp">
+      <Filter>소스 파일\4일차</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_길 찾기 게임.cpp">
+      <Filter>소스 파일\4일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
