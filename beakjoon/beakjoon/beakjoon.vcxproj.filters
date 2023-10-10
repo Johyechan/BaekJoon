@@ -13,76 +13,79 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\1일차">
-      <UniqueIdentifier>{e49de003-8558-4161-bd29-255adb16cb80}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\2일차">
-      <UniqueIdentifier>{4d51d925-fd0d-4b29-9967-688d87f4398d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\실패">
       <UniqueIdentifier>{144adc9c-e24b-4234-a424-5a7e5a41d96d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3일차">
-      <UniqueIdentifier>{2ee4569e-edc3-460e-bf49-8cd05e184a9b}</UniqueIdentifier>
+    <Filter Include="소스 파일\트리">
+      <UniqueIdentifier>{1d7fb49b-d79e-4d10-8484-ec672aac4485}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\4일차">
-      <UniqueIdentifier>{1c96e572-efba-4275-ae41-9e7f5663fa54}</UniqueIdentifier>
+    <Filter Include="소스 파일\이진탐색">
+      <UniqueIdentifier>{5fe2910d-f471-4ff1-a71a-1992d95c1ef1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\게임이론">
+      <UniqueIdentifier>{2f69c184-d8ef-473e-83ea-b846a178c87d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그리디 알고리즘">
+      <UniqueIdentifier>{b2ca09e3-269c-475c-9be4-7e7fa269353a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2720_세탁소 사장 동혁.cpp">
-      <Filter>소스 파일\1일차</Filter>
-    </ClCompile>
-    <ClCompile Include="9655_돌 게임.cpp">
-      <Filter>소스 파일\1일차</Filter>
-    </ClCompile>
-    <ClCompile Include="10162_전자레인지.cpp">
-      <Filter>소스 파일\1일차</Filter>
-    </ClCompile>
-    <ClCompile Include="14429_배스킨라빈스 31.cpp">
-      <Filter>소스 파일\1일차</Filter>
-    </ClCompile>
-    <ClCompile Include="14720_우유 축제.cpp">
-      <Filter>소스 파일\1일차</Filter>
-    </ClCompile>
-    <ClCompile Include="11034_캥거루 세 마리2.cpp">
-      <Filter>소스 파일\2일차</Filter>
-    </ClCompile>
-    <ClCompile Include="28014_첨탑 밀어서 부수기.cpp">
-      <Filter>소스 파일\2일차</Filter>
-    </ClCompile>
-    <ClCompile Include="30018_타슈.cpp">
-      <Filter>소스 파일\2일차</Filter>
-    </ClCompile>
     <ClCompile Include="25335_Gravity Hackenbush.cpp">
       <Filter>소스 파일\실패</Filter>
     </ClCompile>
-    <ClCompile Include="5585_거스름돈.cpp">
-      <Filter>소스 파일\2일차</Filter>
-    </ClCompile>
-    <ClCompile Include="2864_ 5와 6의 차이.cpp">
-      <Filter>소스 파일\2일차</Filter>
-    </ClCompile>
-    <ClCompile Include="14487_욱제는 효도쟁이야!!.cpp">
-      <Filter>소스 파일\3일차</Filter>
-    </ClCompile>
-    <ClCompile Include="22864_피로도.cpp">
-      <Filter>소스 파일\3일차</Filter>
-    </ClCompile>
-    <ClCompile Include="18238_ZOAC 2.cpp">
-      <Filter>소스 파일\3일차</Filter>
-    </ClCompile>
-    <ClCompile Include="21313_문어.cpp">
-      <Filter>소스 파일\4일차</Filter>
-    </ClCompile>
-    <ClCompile Include="28062_준석이의 사탕 사기.cpp">
-      <Filter>소스 파일\4일차</Filter>
-    </ClCompile>
     <ClCompile Include="1991_트리 순회.cpp">
-      <Filter>소스 파일\4일차</Filter>
+      <Filter>소스 파일\트리</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스_길 찾기 게임.cpp">
-      <Filter>소스 파일\4일차</Filter>
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="1920_수 찾기.cpp">
+      <Filter>소스 파일\이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="9655_돌 게임.cpp">
+      <Filter>소스 파일\게임이론</Filter>
+    </ClCompile>
+    <ClCompile Include="14429_배스킨라빈스 31.cpp">
+      <Filter>소스 파일\게임이론</Filter>
+    </ClCompile>
+    <ClCompile Include="2720_세탁소 사장 동혁.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="10162_전자레인지.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="14720_우유 축제.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="2864_ 5와 6의 차이.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="5585_거스름돈.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="11034_캥거루 세 마리2.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="28014_첨탑 밀어서 부수기.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="30018_타슈.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="14487_욱제는 효도쟁이야!!.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="18238_ZOAC 2.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="22864_피로도.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="21313_문어.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="28062_준석이의 사탕 사기.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

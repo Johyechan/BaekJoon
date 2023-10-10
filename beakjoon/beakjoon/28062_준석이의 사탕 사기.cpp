@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 브론즈 2 _ 3일차 보충
+// 브론즈 2
 
 int main()
 {
