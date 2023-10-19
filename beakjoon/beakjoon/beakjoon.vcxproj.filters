@@ -28,6 +28,15 @@
     <Filter Include="소스 파일\그리디 알고리즘">
       <UniqueIdentifier>{b2ca09e3-269c-475c-9be4-7e7fa269353a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BFS">
+      <UniqueIdentifier>{89cfbbe0-b93f-46c6-b0d8-386093028bc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\넥슨 코테">
+      <UniqueIdentifier>{2ca70d58-3394-478f-a12c-6142474bb52a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\해시">
+      <UniqueIdentifier>{fe9e07f6-a70f-42bc-882c-a6fb71723915}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="25335_Gravity Hackenbush.cpp">
@@ -86,6 +95,18 @@
     </ClCompile>
     <ClCompile Include="28062_준석이의 사탕 사기.cpp">
       <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="5639_이진 탐색 트리.cpp">
+      <Filter>소스 파일\이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="11725_트리의 부모 찾기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="넥슨 코테.cpp">
+      <Filter>소스 파일\넥슨 코테</Filter>
+    </ClCompile>
+    <ClCompile Include="의상.cpp">
+      <Filter>소스 파일\해시</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
