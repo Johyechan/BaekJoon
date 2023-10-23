@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\해시">
       <UniqueIdentifier>{fe9e07f6-a70f-42bc-882c-a6fb71723915}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DFS">
+      <UniqueIdentifier>{7be9ad6a-6112-444f-a0a9-3ecbb40b7757}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="25335_Gravity Hackenbush.cpp">
@@ -105,8 +108,14 @@
     <ClCompile Include="넥슨 코테.cpp">
       <Filter>소스 파일\넥슨 코테</Filter>
     </ClCompile>
-    <ClCompile Include="의상.cpp">
+    <ClCompile Include="프로그래머스_의상.cpp">
       <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_베스트앨범.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="24479_알고리즘 수업 - 깊이 우선 탐색 1.cpp">
+      <Filter>소스 파일\DFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
