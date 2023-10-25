@@ -120,5 +120,8 @@
     <ClCompile Include="24445_알고리즘 수업 - 너비 우선 탐색 2.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="27160_할리갈리.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
