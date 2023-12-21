@@ -40,6 +40,15 @@
     <Filter Include="소스 파일\DFS">
       <UniqueIdentifier>{7be9ad6a-6112-444f-a0a9-3ecbb40b7757}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\수학">
+      <UniqueIdentifier>{4cf52726-19b5-41d5-8e90-392fc0056e30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DP">
+      <UniqueIdentifier>{aec5b592-7ed8-4b10-b108-42bf36981c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기초문제">
+      <UniqueIdentifier>{be9b2dc3-cb8c-4db0-8878-cc7b22d81943}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="25335_Gravity Hackenbush.cpp">
@@ -122,6 +131,57 @@
     </ClCompile>
     <ClCompile Include="27160_할리갈리.cpp">
       <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="2166_다각형의 면적_해결X.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1463_1로 만들기.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2293_동전 1.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11047_동전 0.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="1931_회의실 배정.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="수의 곱셈.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Downloads\파도반.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Downloads\파스칼의 삼각형.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11726_2xN 타일링.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="7의 개수.cpp">
+      <Filter>소스 파일\기초문제</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 내 p와 y의 개수.cpp">
+      <Filter>소스 파일\기초문제</Filter>
+    </ClCompile>
+    <ClCompile Include="가까운 수.cpp">
+      <Filter>소스 파일\기초문제</Filter>
+    </ClCompile>
+    <ClCompile Include="각 행의 평균과 가장 가까운 값.cpp">
+      <Filter>소스 파일\기초문제</Filter>
+    </ClCompile>
+    <ClCompile Include="A로 B 만들기.cpp">
+      <Filter>소스 파일\기초문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원으로 만들기.cpp">
+      <Filter>소스 파일\기초문제</Filter>
+    </ClCompile>
+    <ClCompile Include="숨어있는 숫자들의 덧셈.cpp">
+      <Filter>소스 파일\기초문제</Filter>
+    </ClCompile>
+    <ClCompile Include="영어가 싫어요.cpp">
+      <Filter>소스 파일\기초문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
