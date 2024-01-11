@@ -17,7 +17,7 @@ void DFS(int v)
 	for (int i = 0; i < arr[v].size(); i++)
 	{
 		if (visited[arr[v][i]] == 0)
-		{
+		{	
 			DFS(arr[v][i]);
 		}
 	}
