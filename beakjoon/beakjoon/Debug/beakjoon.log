@@ -1,2 +1,9 @@
-﻿  부녀회장이 될테야.cpp
+﻿  4158_CD.cpp
+D:\git\BaekJoon\beakjoon\beakjoon\4158_CD.cpp(22,13): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\git\BaekJoon\beakjoon\beakjoon\4158_CD.cpp(23,13): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\git\BaekJoon\beakjoon\beakjoon\4158_CD.cpp(35,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\git\BaekJoon\beakjoon\beakjoon\4158_CD.cpp(42,21): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\git\BaekJoon\beakjoon\beakjoon\4158_CD.cpp(47,25): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\git\BaekJoon\beakjoon\beakjoon\4158_CD.cpp(26,8): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+D:\git\BaekJoon\beakjoon\beakjoon\4158_CD.cpp(31,8): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
   beakjoon.vcxproj -> D:\git\BaekJoon\beakjoon\Debug\beakjoon.exe
