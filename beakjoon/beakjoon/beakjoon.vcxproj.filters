@@ -216,5 +216,8 @@
     <ClCompile Include="4158_CD.cpp">
       <Filter>소스 파일\이진탐색</Filter>
     </ClCompile>
+    <ClCompile Include="9372_상근이의 여행.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
