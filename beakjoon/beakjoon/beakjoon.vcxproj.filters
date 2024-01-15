@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\기초문제">
       <UniqueIdentifier>{be9b2dc3-cb8c-4db0-8878-cc7b22d81943}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{4b664400-3f03-4b45-9fc9-f5eeb2b4272f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="25335_Gravity Hackenbush.cpp">
@@ -183,10 +186,10 @@
     <ClCompile Include="영어가 싫어요.cpp">
       <Filter>소스 파일\기초문제</Filter>
     </ClCompile>
-    <ClCompile Include="점프왕 쩰리.cpp">
+    <ClCompile Include="16173_점프왕 쩰리.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="바이러스.cpp">
+    <ClCompile Include="2606_바이러스.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
     <ClCompile Include="바닥 장식.cpp">
@@ -220,7 +223,22 @@
       <Filter>소스 파일\트리</Filter>
     </ClCompile>
     <ClCompile Include="그대로 출력하기.cpp">
-      <Filter>소스 파일\기초문제</Filter>
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="대소문자 바꾸기.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="학점 계산.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="25418_정수 a를 k로 만들기.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="11724_연결 요소의 개수.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1010_다리 놓기.cpp">
+      <Filter>소스 파일\DP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

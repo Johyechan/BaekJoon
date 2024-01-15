@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// ∫Í∑–¡Ó 5
+
 int main()
 {
 	string s;
