@@ -243,5 +243,8 @@
     <ClCompile Include="26169_세 번 이내에 사과를 먹자.cpp">
       <Filter>소스 파일\DFS</Filter>
     </ClCompile>
+    <ClCompile Include="14916_거스름돈.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
