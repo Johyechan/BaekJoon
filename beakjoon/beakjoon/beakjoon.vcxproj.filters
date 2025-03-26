@@ -52,6 +52,15 @@
     <Filter Include="소스 파일\문자열">
       <UniqueIdentifier>{4b664400-3f03-4b45-9fc9-f5eeb2b4272f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\새로운 시작">
+      <UniqueIdentifier>{44546e21-c51e-4605-ab8c-b50c3504f9ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\새로운 시작\구현">
+      <UniqueIdentifier>{9c369674-eab8-4a39-b1ba-a6d325201b58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\새로운 시작\구현\브론즈 5">
+      <UniqueIdentifier>{268389c9-4653-496e-ac89-cbb0bbddcaf2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="25335_Gravity Hackenbush.cpp">
@@ -245,6 +254,9 @@
     </ClCompile>
     <ClCompile Include="14916_거스름돈.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="시험 성적_9498.cpp">
+      <Filter>소스 파일\새로운 시작\구현\브론즈 5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
