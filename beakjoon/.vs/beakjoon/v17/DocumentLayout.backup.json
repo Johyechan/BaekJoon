@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB450 \uC218 \uBE44\uAD50\uD558\uAE30_1330.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|solutionrelative:beakjoon\\\uB450 \uC218 \uBE44\uAD50\uD558\uAE30_1330.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uB450 \uC218 \uBE44\uAD50\uD558\uAE30_1330.cpp",
+              "DocumentMoniker": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB450 \uC218 \uBE44\uAD50\uD558\uAE30_1330.cpp",
+              "RelativeDocumentMoniker": "beakjoon\\\uB450 \uC218 \uBE44\uAD50\uD558\uAE30_1330.cpp",
+              "ToolTip": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB450 \uC218 \uBE44\uAD50\uD558\uAE30_1330.cpp",
+              "RelativeToolTip": "beakjoon\\\uB450 \uC218 \uBE44\uAD50\uD558\uAE30_1330.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T09:44:13.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -258,5 +258,8 @@
     <ClCompile Include="시험 성적_9498.cpp">
       <Filter>소스 파일\새로운 시작\구현\브론즈 5</Filter>
     </ClCompile>
+    <ClCompile Include="두 수 비교하기_1330.cpp">
+      <Filter>소스 파일\새로운 시작\구현\브론즈 5</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
