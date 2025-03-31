@@ -55,10 +55,7 @@
     <Filter Include="소스 파일\새로운 시작">
       <UniqueIdentifier>{44546e21-c51e-4605-ab8c-b50c3504f9ac}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\새로운 시작\구현">
-      <UniqueIdentifier>{9c369674-eab8-4a39-b1ba-a6d325201b58}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\새로운 시작\구현\브론즈 5">
+    <Filter Include="소스 파일\새로운 시작\브론즈 5">
       <UniqueIdentifier>{268389c9-4653-496e-ac89-cbb0bbddcaf2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -256,13 +253,19 @@
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
     <ClCompile Include="시험 성적_9498.cpp">
-      <Filter>소스 파일\새로운 시작\구현\브론즈 5</Filter>
+      <Filter>소스 파일\새로운 시작\브론즈 5</Filter>
     </ClCompile>
     <ClCompile Include="두 수 비교하기_1330.cpp">
-      <Filter>소스 파일\새로운 시작\구현\브론즈 5</Filter>
+      <Filter>소스 파일\새로운 시작\브론즈 5</Filter>
     </ClCompile>
     <ClCompile Include="별 찍기 - 1_2438.cpp">
-      <Filter>소스 파일\새로운 시작\구현\브론즈 5</Filter>
+      <Filter>소스 파일\새로운 시작\브론즈 5</Filter>
+    </ClCompile>
+    <ClCompile Include="고양이_10171.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 5</Filter>
+    </ClCompile>
+    <ClCompile Include="윤년_2753.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
