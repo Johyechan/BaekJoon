@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\새로운 시작\브론즈 5">
       <UniqueIdentifier>{268389c9-4653-496e-ac89-cbb0bbddcaf2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\새로운 시작\브론즈 1">
+      <UniqueIdentifier>{071857f0-dce8-46cf-94b5-2d6f21e9b04d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="25335_Gravity Hackenbush.cpp">
@@ -269,6 +272,9 @@
     </ClCompile>
     <ClCompile Include="개_10172.cpp">
       <Filter>소스 파일\새로운 시작\브론즈 5</Filter>
+    </ClCompile>
+    <ClCompile Include="평균_1546.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
