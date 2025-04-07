@@ -276,5 +276,8 @@
     <ClCompile Include="평균_1546.cpp">
       <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
     </ClCompile>
+    <ClCompile Include="더하기 사이클_1110.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
