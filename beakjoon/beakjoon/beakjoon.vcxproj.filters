@@ -282,5 +282,8 @@
     <ClCompile Include="단어 공부_1157.cpp">
       <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
     </ClCompile>
+    <ClCompile Include="평균은 넘겠지_4344.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
