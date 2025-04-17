@@ -285,5 +285,8 @@
     <ClCompile Include="평균은 넘겠지_4344.cpp">
       <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
     </ClCompile>
+    <ClCompile Include="달팽이는 올라가고 싶다_2869.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
