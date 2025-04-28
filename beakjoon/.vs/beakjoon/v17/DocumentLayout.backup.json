@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB2EC\uD33D\uC774\uB294 \uC62C\uB77C\uAC00\uACE0 \uC2F6\uB2E4_2869.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|solutionrelative:beakjoon\\\uB2EC\uD33D\uC774\uB294 \uC62C\uB77C\uAC00\uACE0 \uC2F6\uB2E4_2869.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB354\uD558\uAE30 \uC0AC\uC774\uD074_1110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|solutionrelative:beakjoon\\\uB354\uD558\uAE30 \uC0AC\uC774\uD074_1110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uC218 \uC815\uB82C\uD558\uAE30 3_10989.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1A9F075-DFCB-4959-87A6-D4E6A674DFF3}|beakjoon\\beakjoon.vcxproj|solutionrelative:beakjoon\\\uC218 \uC815\uB82C\uD558\uAE30 3_10989.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uB354\uD558\uAE30 \uC0AC\uC774\uD074_1110.cpp",
-              "DocumentMoniker": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB354\uD558\uAE30 \uC0AC\uC774\uD074_1110.cpp",
-              "RelativeDocumentMoniker": "beakjoon\\\uB354\uD558\uAE30 \uC0AC\uC774\uD074_1110.cpp",
-              "ToolTip": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB354\uD558\uAE30 \uC0AC\uC774\uD074_1110.cpp",
-              "RelativeToolTip": "beakjoon\\\uB354\uD558\uAE30 \uC0AC\uC774\uD074_1110.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T09:22:01.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uB2EC\uD33D\uC774\uB294 \uC62C\uB77C\uAC00\uACE0 \uC2F6\uB2E4_2869.cpp",
-              "DocumentMoniker": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB2EC\uD33D\uC774\uB294 \uC62C\uB77C\uAC00\uACE0 \uC2F6\uB2E4_2869.cpp",
-              "RelativeDocumentMoniker": "beakjoon\\\uB2EC\uD33D\uC774\uB294 \uC62C\uB77C\uAC00\uACE0 \uC2F6\uB2E4_2869.cpp",
-              "ToolTip": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uB2EC\uD33D\uC774\uB294 \uC62C\uB77C\uAC00\uACE0 \uC2F6\uB2E4_2869.cpp",
-              "RelativeToolTip": "beakjoon\\\uB2EC\uD33D\uC774\uB294 \uC62C\uB77C\uAC00\uACE0 \uC2F6\uB2E4_2869.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Title": "\uC218 \uC815\uB82C\uD558\uAE30 3_10989.cpp",
+              "DocumentMoniker": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uC218 \uC815\uB82C\uD558\uAE30 3_10989.cpp",
+              "RelativeDocumentMoniker": "beakjoon\\\uC218 \uC815\uB82C\uD558\uAE30 3_10989.cpp",
+              "ToolTip": "C:\\Git\\Projects\\BaekJoon\\beakjoon\\beakjoon\\\uC218 \uC815\uB82C\uD558\uAE30 3_10989.cpp",
+              "RelativeToolTip": "beakjoon\\\uC218 \uC815\uB82C\uD558\uAE30 3_10989.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T09:21:11.116Z",
+              "WhenOpened": "2025-04-28T09:28:57.134Z",
               "EditorCaption": ""
             }
           ]
