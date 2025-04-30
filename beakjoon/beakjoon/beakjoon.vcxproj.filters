@@ -294,5 +294,8 @@
     <ClCompile Include="최대공약수와 최소공배수_2609.cpp">
       <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
     </ClCompile>
+    <ClCompile Include="소인수분해_11653.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
