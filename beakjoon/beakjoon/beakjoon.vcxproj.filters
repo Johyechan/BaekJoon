@@ -297,5 +297,8 @@
     <ClCompile Include="소인수분해_11653.cpp">
       <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
     </ClCompile>
+    <ClCompile Include="일곱 난쟁이_2309.cpp">
+      <Filter>소스 파일\새로운 시작\브론즈 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
